@@ -10,7 +10,7 @@ on:
       FILE_LINK:
         description: 'Link of Mega File'
         required: true
-        default: 'https://mega.nz/folder/AINFyARA#sb85adg3yJTid2cRXi5pLw'
+        default: 'https://mega.nz/folder/kct1yDKB#5N2mAgSgh7ak9e8tFmDJzA'
 jobs:
   build:
     name: File downloader by ${{ github.actor }}
